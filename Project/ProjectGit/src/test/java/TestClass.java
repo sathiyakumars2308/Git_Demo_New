@@ -1,0 +1,10 @@
+import org.junit.*;
+
+public class TestClass {
+    @Test
+    public void add()
+    {
+    NewClass onc=new NewClass(10,10);
+    onc.add();
+    }
+}
