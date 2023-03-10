@@ -21,4 +21,10 @@ public class NewClass {
        System.out.println("Addition of the value is : "+c);
 
     }
+
+    public void subtract()
+    {
+        int c=a-b;
+        System.out.println("subtraction of the value is : "+c);
+    }
 }

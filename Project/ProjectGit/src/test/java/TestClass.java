@@ -7,4 +7,11 @@ public class TestClass {
     NewClass onc=new NewClass(10,10);
     onc.add();
     }
+
+    @Test
+    public void subtract()
+    {
+        NewClass onc=new NewClass(10,10);
+        onc.subtract();
+    }
 }
