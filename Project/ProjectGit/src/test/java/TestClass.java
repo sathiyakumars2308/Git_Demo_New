@@ -9,6 +9,13 @@ public class TestClass {
     }
 
     @Test
+    public void multiply()
+    {
+        NewClass onc=new NewClass(10,10);
+        onc.multiply();
+    }
+
+    @Test
     public void subtract()
     {
         NewClass onc=new NewClass(10,10);

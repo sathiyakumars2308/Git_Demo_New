@@ -22,6 +22,13 @@ public class NewClass {
 
     }
 
+    public void multiply()
+    {
+        int c=a*b;
+        System.out.println("Multiplied value is : "+c);
+
+    }
+
     public void subtract()
     {
         int c=a-b;
