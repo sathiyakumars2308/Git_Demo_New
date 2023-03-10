@@ -28,4 +28,11 @@ public class TestClass {
         NewClass onc=new NewClass(11,12);
         onc.add();
     }
+
+    @Test
+    public void multiplyOne()
+    {
+        NewClass onc=new NewClass(10,10);
+        onc.multiply();
+    }
 }
