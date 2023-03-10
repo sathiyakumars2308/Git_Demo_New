@@ -30,6 +30,14 @@ public class TestClass {
     }
 
     @Test
+    public void subtractOne()
+    {
+        NewClass onc=new NewClass(10,10);
+        onc.subtract();
+    }
+
+
+    @Test
     public void multiplyOne()
     {
         NewClass onc=new NewClass(10,10);
