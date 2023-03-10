@@ -21,4 +21,11 @@ public class TestClass {
         NewClass onc=new NewClass(10,10);
         onc.subtract();
     }
+
+    @Test
+    public void addOne()
+    {
+        NewClass onc=new NewClass(11,12);
+        onc.add();
+    }
 }
