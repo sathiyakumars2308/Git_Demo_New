@@ -43,4 +43,11 @@ public class TestClass {
         NewClass onc=new NewClass(10,10);
         onc.multiply();
     }
+
+    @Test
+    public void multiplyTwo()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
 }
