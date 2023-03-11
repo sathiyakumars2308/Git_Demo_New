@@ -43,4 +43,12 @@ public class TestClass {
         NewClass onc=new NewClass(10,10);
         onc.multiply();
     }
+
+    @Test
+    public void subtractTwo()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.subtract();
+    }
+
 }
