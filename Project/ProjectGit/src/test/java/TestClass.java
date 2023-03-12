@@ -60,6 +60,14 @@ public class TestClass {
     }
 
     @Test
+    public void subtractThree()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.subtract();
+    }
+
+
+    @Test
     public void multiplyThree()
     {
         NewClass onc=new NewClass(20,21);
