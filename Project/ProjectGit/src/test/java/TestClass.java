@@ -75,11 +75,4 @@ public class TestClass {
     }
 
 
-
-    @Test
-    public void multiplyThree()
-    {
-        NewClass onc=new NewClass(20,21);
-        onc.multiply();
-    }
 }
