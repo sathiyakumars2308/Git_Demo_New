@@ -74,12 +74,6 @@ public class TestClass {
         onc.multiply();
     }
 
-    @Test
-    public void subtractThree()
-    {
-        NewClass onc=new NewClass(20,21);
-        onc.subtract();
-    }
 
 
     @Test
