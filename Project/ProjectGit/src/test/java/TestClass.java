@@ -92,4 +92,11 @@ public class TestClass {
         NewClass onc=new NewClass(20,21);
         onc.multiply();
     }
+
+    @Test
+    public void multiplyEight()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
 }
