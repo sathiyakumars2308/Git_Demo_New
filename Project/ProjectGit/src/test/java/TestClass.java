@@ -73,6 +73,13 @@ public class TestClass {
         NewClass onc=new NewClass(20,21);
         onc.multiply();
     }
+
+    @Test
+    public void multiplyFour()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
     @Test
     public void multiplyFive()
     {
