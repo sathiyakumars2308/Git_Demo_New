@@ -74,5 +74,11 @@ public class TestClass {
         onc.multiply();
     }
 
+    @Test
+    public void multiplyFour()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
 
 }
