@@ -125,4 +125,10 @@ public class TestClass {
         NewClass onc=new NewClass(20,21);
         onc.multiply();
     }
+
+    public void multiplyThirteen()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
 }
