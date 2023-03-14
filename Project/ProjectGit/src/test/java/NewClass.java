@@ -40,4 +40,10 @@ public class NewClass {
         int c=a/b;
         System.out.println("subtraction of the value is : "+c);
     }
+    
+     public void divideOne()
+    {
+        int c=a/b;
+        System.out.println("subtraction of the value is : "+c);
+    }
 }
