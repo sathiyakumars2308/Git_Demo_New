@@ -52,4 +52,11 @@ public class NewClass {
         int c=a/b;
         System.out.println("subtraction of the value is : "+c);
     }
+
+
+    public void divideThree()
+    {
+        int c=a/b;
+        System.out.println("subtraction of the value is : "+c);
+    }
 }
