@@ -157,4 +157,10 @@ public class TestClass {
         onc.multiply();
     }
 
+    public void cherryTwentyTwo()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
+
 }
