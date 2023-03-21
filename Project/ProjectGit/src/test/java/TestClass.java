@@ -186,5 +186,10 @@ public class TestClass {
         NewClass onc=new NewClass(20,21);
         onc.multiply();
     }
-
+    
+    public void rebaseFive()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
 }
