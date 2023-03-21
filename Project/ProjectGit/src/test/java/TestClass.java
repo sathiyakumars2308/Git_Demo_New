@@ -163,10 +163,15 @@ public class TestClass {
         onc.multiply();
     }
     
-       public void rebaseOne()
+     public void rebaseTwo()
     {
         NewClass onc=new NewClass(20,21);
         onc.multiply();
     }
 
+    public void rebaseOne()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
 }
