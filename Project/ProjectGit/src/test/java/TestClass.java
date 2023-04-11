@@ -221,5 +221,13 @@ public class TestClass {
         onc.multiply();
     }
 
+    public void rebaseEleven()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
+
+
+
 
 }
