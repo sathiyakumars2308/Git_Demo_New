@@ -241,4 +241,12 @@ public class TestClass {
     }
 
 
+    public void rebaseFourteen()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
+
+
+
 }
