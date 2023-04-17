@@ -228,6 +228,12 @@ public class TestClass {
     }
 
 
+    public void rebaseTwelve()
+    {
+        NewClass onc=new NewClass(20,21);
+        onc.multiply();
+    }
+
 
 
 }
